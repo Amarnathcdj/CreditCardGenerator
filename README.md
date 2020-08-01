@@ -34,7 +34,7 @@
 Credit Card Generator is a program maked used python, where you can generate credit card numbers. Algorithm and idea taken from [Cielo Developers](https://developercielo.github.io/tutorial/artigos#n%C3%BAmeros-de-cart%C3%B5es)
 ---
 
-## ⚙️ Features
+## ⚙️ Cards
 
 - [x] Mastercard
 - [x] Visa
@@ -50,15 +50,15 @@ Before you begin, you will need to have the following tools installed on your ma
 In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
 
-#### 🧭 Running the web application
+#### 🧭 Running the code
 
 bash
 
 # Clone this repository
-$ git clone https://github.com/thiagogre/creditcardgenerator.git
+$ git clone https://github.com/thiagogre/CreditCardGenerator.git
 
 # Access the project folder in your terminal
-$ cd creditcardgenerator
+$ cd CreditCardGenerator
 
 ---
 
