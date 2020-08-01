@@ -31,7 +31,7 @@
 
 ## 💻 About the project
 
-Credit Card Generator is a program maked used python, where you can generate credit card numbers. 
+Credit Card Generator is a program made with python, where you can generate credit card numbers. 
 Algorithm and idea taken from:
 
 [Cielo Developers](https://developercielo.github.io/tutorial/artigos#n%C3%BAmeros-de-cart%C3%B5es)
