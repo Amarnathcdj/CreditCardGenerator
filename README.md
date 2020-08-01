@@ -47,7 +47,7 @@ Credit Card Generator is a program maked used python, where you can generate cre
 
 Before you begin, you will need to have the following tools installed on your machine:
 [Python](https://www.python.org/downloads/)
-In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
+In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/).
 
 
 #### 🧭 Running the code
