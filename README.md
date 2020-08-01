@@ -95,7 +95,7 @@ You can send me as many PR's as you want, I will be honored to review and accept
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-gregório-4b1a331a3/)](https://www.linkedin.com/in/thiago-gregório-4b1a331a3/) 
-[![Outlook Badge](https://img.shields.io/badge/-thiagoluiz_16@hotmail.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:thiagoluiz_16@hotmail.com)](mailto:thiagoluiz_16@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-thiagoluiz_16@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoluiz_16@hotmail.com)](mailto:thiagoluiz_16@hotmail.com)
 
 ---
 
