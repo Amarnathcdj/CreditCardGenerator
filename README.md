@@ -55,7 +55,7 @@ In addition, it is good to have an editor to work with the code like [VSCode](ht
 #### 🧭 Running the code
 
 bash
-
+```
 # Clone this repository
 $ git clone https://github.com/thiagogre/CreditCardGenerator.git
 
@@ -72,6 +72,7 @@ The following modules were used in the construction of the project:
 -   **[random](https://docs.python.org/3/library/random.html)**
 -   **[timeit](https://docs.python.org/3/library/timeit.html)**
 
+```
 ---
 
 ## 💪 How to contribute
