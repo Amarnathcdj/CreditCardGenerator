@@ -1,7 +1,8 @@
-def generator():
-    from random import randint
-    from timeit import default_timer
+from random import randint
+from timeit import default_timer
 
+
+def generator():
     start = default_timer()
 
     total = 0
