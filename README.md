@@ -3,8 +3,9 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thiagogre/CreditCardGenerator">
   </a>
     
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-
+   <a href="https://github.com/thiagogre/ConsumptionAPI/blob/master/LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   </a>
    <a href="https://github.com/thiagogre/CreditCardGenerator/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/thiagogre/CreditCardGenerator?style=social">
   </a>
