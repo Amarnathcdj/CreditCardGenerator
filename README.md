@@ -18,6 +18,9 @@
 <h4 align="center"> 
 	🚧 Credit Card Generator 🚧 Completed 🚀
 </h4>
+<h4 align="center">
+	  <img alt="edit" title="#CreditCard" src="./assets/creditcard.gif" style="max-width: 100%;">
+</h4>
 
 <p align="center">
  <a href="#-about-the-project">About</a> •
